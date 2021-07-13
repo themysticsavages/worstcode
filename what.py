@@ -18,3 +18,7 @@ wzyugeigqiutghiu34htu4iht4t themysticsavages worstcode
 
 
 
+pass; import sys; import os; from win32con import TRUE; print;(1);Warning;();'a\a';rnd=exec.__eq__(repr);''.__format__('');pass;xy=['1', 2, 't{}'.format('he. what')], property.__format__;sys.__dict__;x=1;print('...', end='{}'.format(''.format('\n...')));'//._.\\';y="""
+what is actually going on!""";print(x);del sys; sys='what i just deleted sys'; print(sys); 'lmao nothing gets printed anymore'; sys.replace('\n\n\n', f'{bool.__class__}'.format(True)); print(str(xy).replace('(', '').replace(')', '')
+.replace(", <method '__format__' of 'object' objects>", '').replace("'", '').replace('[', '').replace(']', '').split(' ')[2], str(xy).replace('(', '').replace(')', '').replace(", <method '__format__' of 'object' objects>", '').replace("'", '')
+.replace('[', '').replace(']', '').split(' ')[3]); os.chdir(os.getcwd()); del x; x = 1;pass;pass;pass;pass;pass;
