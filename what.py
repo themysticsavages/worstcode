@@ -6,3 +6,15 @@ time.sleep(0.6); print('so'); time.sleep(0.6); print('bad'); time.sleep(0.6);del
 import win10toast; new = win10toast.ToastNotifier(); new.show_toast('nice knowing you', 'e', threaded=True); 
 with open('what.py', 'r') as g: x = g.read(); g.close(); 
 with open('code.txt', 'w') as g: g.write('This is my code\n'+x); bruh
+"""
+wzyugeigqiutghiu34htu4iht4t themysticsavages worstcode
+"""
+
+
+
+
+
+
+
+
+
